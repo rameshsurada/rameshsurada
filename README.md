@@ -7,7 +7,10 @@
 ---
 <!-- Dark Theme -->
 ![Snake Dark](https://raw.githubusercontent.com/rameshsurada/rdme/output/github-contribution-grid-snake-dark.svg)
+<img width="820" height="383" alt="image" src="https://github.com/user-attachments/assets/6a80ebf7-7973-435d-87ba-742ecfe39377" />
 
+
+<img width="1672" height="701" alt="image" src="https://github.com/user-attachments/assets/e135f34b-c7cb-439d-9aae-19cc101f1faa" />
 
 ## 🚀 Tech Stack
 
