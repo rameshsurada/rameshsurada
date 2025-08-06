@@ -7,8 +7,10 @@
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A7CFF&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+to+Opportunities)
 
 ---
-<!-- Dark Theme -->
-![Snake Dark](https://raw.githubusercontent.com/rameshsurada/rdme/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contributions for rameshsurada](https://octostats.mondov.dev/widget?username=rameshsurada&type=heatmap&timeframe=1y)
+
+<!-- Dark Theme Snake Game -->
+ <!-- ![Snake Dark](https://raw.githubusercontent.com/rameshsurada/rdme/output/github-contribution-grid-snake-dark.svg)  -->
 
 
 
