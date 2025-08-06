@@ -2,7 +2,6 @@
 [![Portfolio](https://img.shields.io/badge/Check-darkgreen?style=for-the-badge&logo=portfolio&logoColor=white)](https://ramesh-surada.vercel.app/) <!-- Dark Green -->[![Portfolio](https://img.shields.io/badge/Out-blue?style=for-the-badge&logo=portfolio&logoColor=white)](https://ramesh-surada.vercel.app/) <!-- Blue -->[![Portfolio](https://img.shields.io/badge/My-pink?style=for-the-badge&logo=portfolio&logoColor=white)](https://ramesh-surada.vercel.app/) <!-- Pink -->[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=portfolio&logoColor=white)](https://ramesh-surada.vercel.app/) <!-- Purple -->
 
 
-
 ### 
 
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A7CFF&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+to+Opportunities)
