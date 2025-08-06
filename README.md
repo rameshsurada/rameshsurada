@@ -41,9 +41,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
-![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshsurada&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshsurada&layout=compact&theme=radical)
 
