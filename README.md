@@ -10,7 +10,7 @@
 ![GitHub Contributions for rameshsurada](https://octostats.mondov.dev/widget?username=rameshsurada&type=heatmap&timeframe=1y)
 
 <!-- Dark Theme Snake Game -->
- <!-- ![Snake Dark](https://raw.githubusercontent.com/rameshsurada/rdme/output/github-contribution-grid-snake-dark.svg)  -->
+  ![Snake Dark](https://raw.githubusercontent.com/rameshsurada/rdme/output/github-contribution-grid-snake-dark.svg)  
 
 
 
